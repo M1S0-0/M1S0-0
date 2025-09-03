@@ -9,8 +9,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 ---
 
 ## 💼 Freelance & Collaborations  
-🚀 I am available for **freelance security research projects** and **contract-based smart contract audits**.  
-If you are looking for a security partner to test, review, or audit your applications or blockchain systems, feel free to reach out.  
+🚀 I am available for freelance security research and contract-based projects across Web2 applications, Web3 platforms, and smart contract audits. If you are seeking a security partner to assess, review, or strengthen your systems, feel free to reach out.
 
 📧 **Contact me directly via the links below.**
 
