@@ -58,9 +58,6 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   <a href="https://corporate.comcast.com/" title="Comcast">
     <img src="https://logos.bugcrowdusercontent.com/logos/605d/97ab/be55d53b/3b8b67094243191dc0132258430846b4_comcast.jpeg" alt="Comcast" height="50" />
   </a>&nbsp;&nbsp;
-    <a href="https://www.xfinity.com/" title="Xfinity">
-    <img src="https://logos.bugcrowdusercontent.com/logos/2a02/8676/2437c177/c1cc2dd912014795dcf6a92408477f84_corporate_Xfinity-Home.png" alt="Xfinity" height="50" />
-  </a>&nbsp;&nbsp;
    <a href="https://gopro.com/en/us/" title="GoPro">
     <img src="https://imgs.search.brave.com/OHkr2iklaWOlzZopZSMrbwjjbA7a_ZknVqOrWuL_i-c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzE4LzEvZ29wcm8t/bG9nby1wbmdfc2Vl/a2xvZ28tMTgzNjEw/LnBuZw" alt="GoPro" height="50" />
   </a>&nbsp;&nbsp;
@@ -75,6 +72,9 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   </a>&nbsp;&nbsp;
    <a href="https://www.chime.com/" title="Chime">
     <img src="https://logos.bugcrowdusercontent.com/logos/ab3b/361c/bd9cc487/9224892564269a0295542710ce8f7362_images.png" alt="Chime" height="50" />
+  </a>&nbsp;&nbsp;
+      <a href="https://global-fashion-group.com/" title="Global Fashion Group">
+    <img src="https://logos.bugcrowdusercontent.com/logos/ab82/f209/e10cbcfd/22e0d74fa03ce78bbb1e3a8498a2be34_Screenshot_2020-07-16_at_17.24.58.png" alt="Global Fashion Group" height="50" />
   </a>&nbsp;&nbsp;
   
 </p>
