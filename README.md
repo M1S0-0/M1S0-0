@@ -2,7 +2,7 @@
 # 🛡️ M1S0 – Security Researcher 👾  
 
 ## 👤 About Me  
-I am **M1S0**, a security researcher with a strong foundation in both **Web2 application security** and **Web3 blockchain security**. My journey started with bug bounty programs where I gained extensive experience in identifying and reporting issues across web applications and APIs. Over time, I expanded into Web3, focusing on smart contract auditing, dApp testing, and blockchain-specific attack surfaces. I bring a mix of manual analysis, fuzzing, invariant testing, and exploit proof-of-concepts to validate real-world risks. Combining traditional penetration testing methodologies with modern Web3 security practices, my goal is to deliver impactful findings, help secure ecosystems, and continuously grow as both a hacker and auditor.  
+I am **M1S0**, a security researcher with a strong foundation in both **Web2 application security** and **Web3 blockchain security**. My journey began in bug bounty programs where I gained extensive experience uncovering and reporting critical issues across web applications and APIs. Over time, I expanded into **Web3**, specializing in **smart contract auditing**, **dApp security**, and **blockchain attack surfaces**. I focus on delivering practical exploit proofs and real-world risk validation, combining the mindset of an adversary with disciplined audit practices. My mission is simple: expose weaknesses before they are exploited, strengthen ecosystems, and push the boundaries of offensive security.  
 
 ![Web2 & Web3 Security](https://img.shields.io/badge/Focus-Web2%20%26%20Web3-blueviolet?style=flat-square)
 ![Smart Contract Audits](https://img.shields.io/badge/Smart%20Contract-Audits-orange?style=flat-square) 
