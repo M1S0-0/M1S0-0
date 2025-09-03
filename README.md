@@ -47,7 +47,7 @@ If you are looking for a security partner to test, review, or audit your applica
 👉 [Explore Smart Contract Audits](./Web3/SmartContracts/)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="100" />
 </p>
 
 ---
