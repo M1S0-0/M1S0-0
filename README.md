@@ -103,7 +103,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <a href="https://coindepo.com/" title="Coindepo">
     <img src="https://imgs.search.brave.com/Sc7TzOEYo5He3YUl678ZyiARkCEqnizSYE6fp8dSw8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kZXYt/c3RhdGljLmNvaW5k/ZXBvLmlvL2ltYWdl/cy9sb2dvLWJsdWUu/c3Zn" alt="Coindepo" height="50" />
   </a>&nbsp;&nbsp;
-<a href="ViewALL">
+<a href="https://github.com/M1S0-0/M1S0-0/blob/main/Web3_Website_HallOfFame.md">
   <img src="https://img.shields.io/badge/View%20All-→-blue?style=flat-square" />
 </a>
 </p>
