@@ -1,12 +1,6 @@
 
 # 🛡️ M1S0 – Security Researcher 👾
 
-
-
-
-
-
-
 ## 👤 About Me  
 I am **M1S0**, a security researcher with a strong foundation in both **Web2 application security** and **Web3 blockchain security**. My journey started with bug bounty programs where I gained extensive experience in identifying and reporting issues across web applications and APIs. Over time, I expanded into Web3, focusing on smart contract auditing, dApp testing, and blockchain-specific attack surfaces. I bring a mix of manual analysis, fuzzing, invariant testing, and exploit proof-of-concepts to validate real-world risks. Combining traditional penetration testing methodologies with modern Web3 security practices, my goal is to deliver impactful findings, help secure ecosystems, and continuously grow as both a hacker and auditor.  
 
@@ -64,6 +58,9 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   <a href="https://corporate.comcast.com/" title="Comcast">
     <img src="https://logos.bugcrowdusercontent.com/logos/605d/97ab/be55d53b/3b8b67094243191dc0132258430846b4_comcast.jpeg" alt="Comcast" height="50" />
   </a>&nbsp;&nbsp;
+    <a href="https://www.xfinity.com/" title="Xfinity">
+    <img src="https://logos.bugcrowdusercontent.com/logos/2a02/8676/2437c177/c1cc2dd912014795dcf6a92408477f84_corporate_Xfinity-Home.png" alt="Xfinity" height="50" />
+  </a>&nbsp;&nbsp;
    <a href="https://gopro.com/en/us/" title="GoPro">
     <img src="https://imgs.search.brave.com/OHkr2iklaWOlzZopZSMrbwjjbA7a_ZknVqOrWuL_i-c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzE4LzEvZ29wcm8t/bG9nby1wbmdfc2Vl/a2xvZ28tMTgzNjEw/LnBuZw" alt="GoPro" height="50" />
   </a>&nbsp;&nbsp;
@@ -96,7 +93,6 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <img src="https://imgs.search.brave.com/Sc7TzOEYo5He3YUl678ZyiARkCEqnizSYE6fp8dSw8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kZXYt/c3RhdGljLmNvaW5k/ZXBvLmlvL2ltYWdl/cy9sb2dvLWJsdWUu/c3Zn" alt="Coindepo" height="50" />
   </a>&nbsp;&nbsp;
 </p>
-
 
 
 
