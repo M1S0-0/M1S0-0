@@ -33,3 +33,4 @@
       <a href="https://global-fashion-group.com/" title="Global Fashion Group">
     <img src="https://logos.bugcrowdusercontent.com/logos/ab82/f209/e10cbcfd/22e0d74fa03ce78bbb1e3a8498a2be34_Screenshot_2020-07-16_at_17.24.58.png" alt="Global Fashion Group" height="50" />
   </a>&nbsp;&nbsp;
+</p>
