@@ -129,5 +129,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 
 
 ---
+🔒 Built with passion for security research — M1S0
+
 
 
