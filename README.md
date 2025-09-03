@@ -58,7 +58,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <img src="https://logos.bugcrowdusercontent.com/logos/8d8f/5377/13d3917b/477d9c47c80f82293eef3a46f0593630_cisco.jpeg" alt="Cisco" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://openai.com/" title="OpenAI">
-    <img src="https://imgs.search.brave.com/uNSZR3YpV3gLvXVVJce1TK8Q7jxRPQ2CHS5bKTa1fLU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3Rfb3Bl/bmFpLW5ldzc4NjQu/bG9nb3dpay5jb20u/d2VicA" alt="OpenAI" height="50" />
+    <img src="https://imgs.search.brave.com/C_tRam33duZGjvEbDFtLroyxW8AU0I5S7So-5cyCeD0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ2LzEvb3BlbmFp/LWxvZ28tcG5nX3Nl/ZWtsb2dvLTQ2NTIx/OC5wbmc" alt="OpenAI" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://www.paypal.com/" title="PayPal">
     <img src="./assets/logos/paypal.png" alt="PayPal" height="50" />
