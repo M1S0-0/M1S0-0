@@ -101,8 +101,11 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   <a href="https://layer3.xyz/" title="LAYER3">
     <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/66a3a6fab77695000a81f2cb/logo.png?timestamp=1754581665" alt="LAYER3" height="50" />
   </a>&nbsp;&nbsp;
-
+  <a href="https://noya.ai/" title="NOYA">
+    <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/680b5a0240041c22836c43d3/logo.png?timestamp=1755521341" alt="NOYA" height="50" />
+  </a>&nbsp;&nbsp;
 </p>
+
 
 
 ---
