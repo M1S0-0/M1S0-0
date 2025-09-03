@@ -58,7 +58,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <img src="https://logos.bugcrowdusercontent.com/logos/8d8f/5377/13d3917b/477d9c47c80f82293eef3a46f0593630_cisco.jpeg" alt="Cisco" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://openai.com/" title="OpenAI">
-    <img src="https://logos.bugcrowdusercontent.com/logos/28f4/22c0/c172b7f6/83c52a802161900a5899365746e1dd14_logo.png" alt="OpenAI" height="50" />
+    <img src="https://imgs.search.brave.com/uNSZR3YpV3gLvXVVJce1TK8Q7jxRPQ2CHS5bKTa1fLU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3Rfb3Bl/bmFpLW5ldzc4NjQu/bG9nb3dpay5jb20u/d2VicA" alt="OpenAI" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://www.paypal.com/" title="PayPal">
     <img src="./assets/logos/paypal.png" alt="PayPal" height="50" />
