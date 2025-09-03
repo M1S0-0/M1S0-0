@@ -61,7 +61,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <img src="https://imgs.search.brave.com/C_tRam33duZGjvEbDFtLroyxW8AU0I5S7So-5cyCeD0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ2LzEvb3BlbmFp/LWxvZ28tcG5nX3Nl/ZWtsb2dvLTQ2NTIx/OC5wbmc" alt="OpenAI" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://www.paypal.com/" title="PayPal">
-    <img src="./assets/logos/paypal.png" alt="PayPal" height="50" />
+    <img src="https://imgs.search.brave.com/CJMs-KdBfmbFw7icG21vmM2VydTIlBqdJGA85FJRbkM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9wYXlw/YWwtbG9nby1wcmlu/dGVkLXBhcGVyLWNo/aXNpbmF1LW1vbGRv/dmEtc2VwdGVtYmVy/LWludGVybmV0LWJh/c2VkLWRpZ2l0YWwt/bW9uZXktdHJhbnNm/ZXItc2VydmljZS0x/MjgzNzM0ODcuanBn" alt="PayPal" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://corporate.comcast.com/" title="Comcast">
     <img src="./assets/logos/comcast.png" alt="Comcast" height="50" />
