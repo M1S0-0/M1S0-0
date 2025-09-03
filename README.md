@@ -55,7 +55,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <img src="https://logos.bugcrowdusercontent.com/logos/c63e/8e43/7338d03a/f1e1e5bbb52c73c333a29b25feba8aae_1024px-Dell_Logo.svg.png" alt="Dell" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://www.cisco.com/" title="Cisco">
-    <img src="./assets/logos/cisco.png" alt="Cisco" height="50" />
+    <img src="https://logos.bugcrowdusercontent.com/logos/8d8f/5377/13d3917b/477d9c47c80f82293eef3a46f0593630_cisco.jpeg" alt="Cisco" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://openai.com/" title="OpenAI">
     <img src="./assets/logos/openai.png" alt="OpenAI" height="50" />
@@ -81,9 +81,6 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   <a href="https://www.binance.com/" title="Binance">
     <img src="./assets/logos/binance.png" alt="Binance" height="50" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.smartcontract.com/" title="Smart Contract">
-    <img src="./assets/logos/smartcontract.png" alt="Smart Contract" height="50" />
-  </a>
 </p>
 
 ---
