@@ -29,7 +29,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 
 👉 [Explore Web2 Reports](./Web2/)  
 
----
+
 
 ### 🔗 Web3 – Blockchain Security  
 
@@ -46,8 +46,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 👉 [Explore Smart Contract Audits](./Web3/SmartContracts/)  
 
 ---
-## 🏆 Hall of Fame — Selected Programs
----
+## 🏆 Hall of Fame
 
 ### 🌐 Web2
 <p align="left">
