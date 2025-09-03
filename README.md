@@ -79,7 +79,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 ### 🔗 Web3
 <p align="left">
   <a href="https://www.binance.com/" title="Binance">
-    <img src="./assets/logos/binance.png" alt="Binance" height="50" />
+    <img src="https://imgs.search.brave.com/DI6Ius803SgOVkT3ZR7z6N15t_MxPt3bvsSefw63chM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzYxLzIvYmluYW5j/ZS12ZXJ0aWNhbC1s/b2dvLXBuZ19zZWVr/bG9nby02MTk4MTQu/cG5n" alt="Binance" height="50" />
   </a>&nbsp;&nbsp;
 </p>
 
