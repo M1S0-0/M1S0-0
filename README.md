@@ -74,7 +74,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   </a>&nbsp;&nbsp;
     <a href="https://bolt.eu" title="Bolt">
     <img src="https://logos.bugcrowdusercontent.com/logos/85ef/fd9f/64b4d4aa/2f3c9daceaf3e373888382aec1151148_bolt.jpeg" alt="Bolt" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;
    <a href="https://www.chime.com/" title="Chime">
     <img src="https://logos.bugcrowdusercontent.com/logos/ab3b/361c/bd9cc487/9224892564269a0295542710ce8f7362_images.png" alt="Chime" height="50" />
   </a>&nbsp;&nbsp;
