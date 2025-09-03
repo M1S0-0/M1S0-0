@@ -84,7 +84,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
       <a href="https://global-fashion-group.com/" title="Global Fashion Group">
     <img src="https://logos.bugcrowdusercontent.com/logos/ab82/f209/e10cbcfd/22e0d74fa03ce78bbb1e3a8498a2be34_Screenshot_2020-07-16_at_17.24.58.png" alt="Global Fashion Group" height="50" />
   </a>&nbsp;&nbsp;
-<a href="ViewALL">
+<a href="https://github.com/M1S0-0/M1S0-0/blob/main/Web2_HallOfFame.md">
   <img src="https://img.shields.io/badge/View%20All-→-blue?style=flat-square" />
 </a>
 
