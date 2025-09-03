@@ -102,12 +102,10 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 
 ### 📜 Smart Contracts
 <p align="left">
-  <a href="https://defillama.com/" title="Example Project 1">
-    <img src="./assets/logos/example1.png" alt="Example Project 1" height="50" />
+  <a href="https://layer3.xyz/" title="LAYER3">
+    <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/66a3a6fab77695000a81f2cb/logo.png?timestamp=1754581665" alt="LAYER3" height="50" />
   </a>&nbsp;&nbsp;
-  <a href="https://etherscan.io/" title="Example Project 2">
-    <img src="./assets/logos/example2.png" alt="Example Project 2" height="50" />
-  </a>
+
 </p>
 
 
