@@ -84,6 +84,9 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <a href="https://gmgn.ai/" title="GMGN">
     <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/67d2eb1e40041c000aa5014a/logo.png?timestamp=1742380156" alt="GMGN" height="50" />
   </a>&nbsp;&nbsp;
+    <a href="https://coindepo.com/" title="Coindepo">
+    <img src="https://dashboard.hackenproof.com/uploads/company/avatar/689219f240041c6a8d942dc0/avatar.png?timestamp=1754449387" alt="Coindepo" height="50" />
+  </a>&nbsp;&nbsp;
 </p>
 
 ---
