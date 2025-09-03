@@ -64,7 +64,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <img src="https://imgs.search.brave.com/CJMs-KdBfmbFw7icG21vmM2VydTIlBqdJGA85FJRbkM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9wYXlw/YWwtbG9nby1wcmlu/dGVkLXBhcGVyLWNo/aXNpbmF1LW1vbGRv/dmEtc2VwdGVtYmVy/LWludGVybmV0LWJh/c2VkLWRpZ2l0YWwt/bW9uZXktdHJhbnNm/ZXItc2VydmljZS0x/MjgzNzM0ODcuanBn" alt="PayPal" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://corporate.comcast.com/" title="Comcast">
-    <img src="./assets/logos/comcast.png" alt="Comcast" height="50" />
+    <img src="https://logos.bugcrowdusercontent.com/logos/605d/97ab/be55d53b/3b8b67094243191dc0132258430846b4_comcast.jpeg" alt="Comcast" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://bolt.eu/" title="Bolt">
     <img src="./assets/logos/bolt.png" alt="Bolt" height="50" />
