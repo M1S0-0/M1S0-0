@@ -45,8 +45,47 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 
 👉 [Explore Smart Contract Audits](./Web3/SmartContracts/)  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="100" />
+---
+## 🏆 Hall of Fame — Selected Programs
+
+> Logos are for identification only and link to the organization’s site.  
+> If any logo fails to load, replace the image URL with a local file under `/assets/logos/`.
+
+### 🌐 Web2
+<p align="left">
+  <a href="https://www.dell.com/" title="Dell">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/dell.svg" alt="Dell" height="36" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.cisco.com/" title="Cisco">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cisco.svg" alt="Cisco" height="36" />
+  </a>&nbsp;&nbsp;
+  <a href="https://openai.com/" title="OpenAI">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" alt="OpenAI" height="36" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.paypal.com/" title="PayPal">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/paypal.svg" alt="PayPal" height="36" />
+  </a>&nbsp;&nbsp;
+  <a href="https://corporate.comcast.com/" title="Comcast">
+    <img src="https://img.shields.io/badge/Comcast-121212?style=for-the-badge" alt="Comcast" height="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://bolt.eu/" title="Bolt Technology OÜ">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bolt.svg" alt="Bolt" height="36" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.gendigital.com/" title="Gen Digital Inc.">
+    <img src="https://img.shields.io/badge/Gen%20Digital-121212?style=for-the-badge" alt="Gen Digital" height="28" />
+  </a>
+</p>
+
+### 🔗 Web3
+<p align="left">
+  <a href="https://www.binance.com/" title="Binance">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/binance.svg" alt="Binance" height="36" />
+  </a>&nbsp;&nbsp;
+  <a href="https://smartcontractsecurity.org/" title="Smart Contract Security (SWC Registry)">
+    <img src="https://img.shields.io/badge/Smart%20Contract%20Security-121212?style=for-the-badge" alt="Smart Contract Security" height="28" />
+  </a>
 </p>
 
 ---
+
+
