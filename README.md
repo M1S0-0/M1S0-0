@@ -9,8 +9,10 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 
 
 
-## 💼 Freelance & Collaborations  ![Freelance Available](https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat-square)
-🚀 I am available for **freelance security research and contract-based projects** across **Web2 applications**, **Web3 platforms**, and **Smart Contract audits**. If you are seeking a security partner to assess, review, or strengthen your systems, **feel free to reach out**.
+## 💼 Freelance & Collaborations  
+🚀 I am available for **freelance security research and contract-based projects** across **Web2 applications**, **Web3 platforms**, and **Smart Contract audits**. If you are seeking a security partner to assess, review, or strengthen your systems, **feel free to reach out**. 
+
+![Freelance Available](https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat-square)
 
 
  
