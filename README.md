@@ -71,7 +71,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   </a>&nbsp;&nbsp;
   <a href="https://www.gendigital.com/" title="Gen Digital">
     <img src="https://logos.bugcrowdusercontent.com/logos/fb78/5acf/6dfe076a/f07c667fbae2cb9f6e147309206096f8_1667840511785.jpeg" alt="Gen Digital" height="50" />
-  </a>&nbsp;&nbsp;
+  </a>
     <a href="https://bolt.eu" title="Bolt">
     <img src="https://logos.bugcrowdusercontent.com/logos/85ef/fd9f/64b4d4aa/2f3c9daceaf3e373888382aec1151148_bolt.jpeg" alt="Bolt" height="50" />
   </a>
@@ -83,10 +83,10 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 <p align="left">
   <a href="https://www.binance.com/" title="Binance">
     <img src="https://imgs.search.brave.com/DI6Ius803SgOVkT3ZR7z6N15t_MxPt3bvsSefw63chM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzYxLzIvYmluYW5j/ZS12ZXJ0aWNhbC1s/b2dvLXBuZ19zZWVr/bG9nby02MTk4MTQu/cG5n" alt="Binance" height="50" />
-  </a>&nbsp;
+  </a>&nbsp;&nbsp;
     <a href="https://gmgn.ai/" title="GMGN">
     <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/67d2eb1e40041c000aa5014a/logo.png?timestamp=1742380156" alt="GMGN" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;
     <a href="https://coindepo.com/" title="Coindepo">
     <img src="https://imgs.search.brave.com/Sc7TzOEYo5He3YUl678ZyiARkCEqnizSYE6fp8dSw8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kZXYt/c3RhdGljLmNvaW5k/ZXBvLmlvL2ltYWdl/cy9sb2dvLWJsdWUu/c3Zn" alt="Coindepo" height="50" />
   </a>&nbsp;&nbsp;
