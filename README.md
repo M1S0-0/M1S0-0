@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="100" />
-</p>
 
 # 🛡️ M1S0 – Security Research 
 
@@ -48,5 +45,9 @@ If you are looking for a security partner to test, review, or audit your applica
 - Includes manual reviews, fuzzing, invariant testing, and vulnerability validation.  
 
 👉 [Explore Smart Contract Audits](./Web3/SmartContracts/)  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="60" />
+</p>
 
 ---
