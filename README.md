@@ -67,7 +67,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <img src="https://logos.bugcrowdusercontent.com/logos/605d/97ab/be55d53b/3b8b67094243191dc0132258430846b4_comcast.jpeg" alt="Comcast" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://fusionauth.io/" title="FusionAuth">
-    <img src="https://cdn.prod.website-files.com/664cfafd1b780dd90b9bc416/664cfafd1b780dd90b9bc79a_logo-white-orange.svg" alt="FusionAuth" height="50" />
+    <img src="https://logos.bugcrowdusercontent.com/logos/430b/03e7/50fb5ac6/e8183ba5646ba042785f6c80935df247_fusionauth_logo.jpeg" alt="FusionAuth" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://www.gendigital.com/" title="Gen Digital">
     <img src="./assets/logos/gen.png" alt="Gen Digital" height="50" />
