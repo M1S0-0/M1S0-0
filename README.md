@@ -24,9 +24,9 @@ If you are looking for a security partner to test, review, or audit your applica
 
 ## 📂 Portfolio Sections  
 
-### 🌐 Web2 – Bug Bounty Reports  
-- Collection of Web2 security findings from bug bounty platforms.  
-- Focus areas: authentication/authorization, injection flaws, API security, and business logic issues.  
+### 🌐 Web2 – Bug Bounty Reports
+- Collection of Web2 security research and verified bug bounty submissions.
+- Includes reports demonstrating expertise in securing applications, APIs, and business logic workflows.
 
 👉 [Explore Web2 Reports](./Web2/)  
 
@@ -35,14 +35,14 @@ If you are looking for a security partner to test, review, or audit your applica
 ### 🔗 Web3 – Blockchain Security  
 
 #### 📌 Website  
-- Web3 application and dApp security reports.  
-- Covers API integrations, frontend logic, and ecosystem attack surfaces.  
+- Comprehensive security reviews of Web3 applications and decentralized platforms.
+- Focus on evaluating system design, integrations, and user-facing functionality to ensure reliability and trust.
 
 👉 [Explore Web3 Website Reports](./Web3/Website/)  
 
 #### 📌 Smart Contracts  
-- In-depth audits and exploit PoCs on blockchain smart contracts.  
-- Includes manual reviews, fuzzing, invariant testing, and vulnerability validation.  
+- Independent audits and proof-of-concepts on blockchain smart contracts.
+- Covers code quality, design validation, and resilience against critical risks through structured reviews and testing.
 
 👉 [Explore Smart Contract Audits](./Web3/SmartContracts/)  
 
