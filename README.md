@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="320" />
-</p>
+
 # 🛡️ M1S0 – Security Research 
 
 ---
