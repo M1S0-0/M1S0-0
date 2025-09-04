@@ -28,7 +28,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 - Collection of Web2 security research and verified bug bounty submissions.
 - Includes reports demonstrating expertise in securing applications, APIs, and business logic workflows.
 
-👉 [Explore Web2 Reports](./Web2/)  
+
 
 
 
@@ -38,13 +38,13 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 - Comprehensive security reviews of Web3 applications and decentralized platforms.
 - Focus on evaluating system design, integrations, and user-facing functionality to ensure reliability and trust.
 
-👉 [Explore Web3 Website Reports](./Web3/Website/)  
+
 
 #### 📌 Smart Contracts  
 - Independent audits and proof-of-concepts on blockchain smart contracts.
 - Covers code quality, design validation, and resilience against critical risks through structured reviews and testing.
 
-👉 [Explore Smart Contract Audits](./Web3/SmartContracts/)  
+
 
 ---
 ## 🏆 Hall of Fame
