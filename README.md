@@ -24,7 +24,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 
 ## 📂 Portfolio Sections  
 <p>
-<a href="https://bugcrowd.com/M1S0"><img src="https://img.shields.io/badge/Bugcrowd-Profile-FF5500?style=flat-square&logo=bugcrowd&logoColor=white" /></a>
+<a href="https://bugcrowd.com/h/M1S0"><img src="https://img.shields.io/badge/Bugcrowd-Profile-FF5500?style=flat-square&logo=bugcrowd&logoColor=white" /></a>
 </p>
 
 ### 🌐 Web2 – Bug Bounty Reports
