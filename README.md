@@ -44,6 +44,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 - Independent audits and proof-of-concepts on blockchain smart contracts.
 - Covers code quality, design validation, and resilience against critical risks through structured reviews and testing.
 
+ 📂 [Audit Reports](https://github.com/M1S0-0/Smart_Contract_Audits?tab=readme-ov-file)
 
 
 ---
@@ -119,7 +120,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/680b5a0240041c22836c43d3/logo.png?timestamp=1755521341" alt="NOYA" height="50" />
   </a>&nbsp;&nbsp;
 <a href="ViewALL">
-  <img src="https://img.shields.io/badge/View%20All-→-blue?style=flat-square" />
+  <img src="https://github.com/M1S0-0/Smart_Contract_Audits?tab=readme-ov-file" />
 </a>
 </p>
 
