@@ -44,7 +44,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 - Independent audits and proof-of-concepts on blockchain smart contracts.
 - Covers code quality, design validation, and resilience against critical risks through structured reviews and testing.
   
-[![View Audit Report](https://img.shields.io/badge/View_Audit_Report-0078D4?style=flat&logo=readthedocs&logoColor=white)](https://github.com/M1S0-0/Smart_Contract_Audits)
+[![View Audit Report](https://img.shields.io/badge/View_Audit_Report-0078D4?style=flat&logo=readthedocs&logoColor=white)](https://github.com/M1S0-0/Smart_Contract_Audits?tab=readme-ov-file#-public-contest-audits)
 
 
 ---
