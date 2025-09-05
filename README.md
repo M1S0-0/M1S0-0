@@ -18,8 +18,11 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
  
 
 📧 **Contact me directly via the links below.**
-- **Twitter:** [@M1S0](https://x.com/UnknownMnz)  
-- **LinkedIn:** [M1S0](https://www.linkedin.com/in/m1s0/)  
+<p>
+  <a href="https://x.com/UnknownMnz"><img src="https://img.shields.io/badge/Twitter-@M1S0-1DA1F2?style=flat-square&logo=x" /></a>
+  <a href="https://www.linkedin.com/in/m1s0/"><img src="https://img.shields.io/badge/LinkedIn-M1S0-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/M1S0_MS"><img src="https://img.shields.io/badge/Telegram-@M1S0_MS-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+</p>
 
 
 ## 📂 Portfolio Sections  
