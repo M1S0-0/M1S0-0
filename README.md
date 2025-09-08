@@ -98,8 +98,8 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   <a href="https://app.aurory.io/" title="Aurory">
     <img src="https://logos.bugcrowdusercontent.com/logos/5ce2/c653/f20cfea9/6aba22da0a3dad9d3edf68c6a99b2dcb_Aurory_Twitter.jpg" alt="Aurory" height="50" />
   </a>&nbsp;&nbsp;<br>
-  <a href="https://app.aurory.io/" title="Aurory">
-    <img src="https://logos.bugcrowdusercontent.com/logos/5ce2/c653/f20cfea9/6aba22da0a3dad9d3edf68c6a99b2dcb_Aurory_Twitter.jpg" alt="Aurory" height="50" />
+ <a href="https://www.immoscout24.ch/" title="ImmoScout24">
+    <img src="https://logos.bugcrowdusercontent.com/logos/00a8/bf3f/410e5066/709e46cb8db3ae49d21f94f8d541ff32_8565b07b8c343e83379cb46ea7d34f68_201007_homegate_logo_x.png" alt="ImmoScout24" height="50" />
   </a>&nbsp;&nbsp;
 <a href="https://github.com/M1S0-0/Web2/">
   <img src="https://img.shields.io/badge/View%20All-→-blue?style=flat-square" />
