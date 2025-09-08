@@ -34,7 +34,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 - Collection of Web2 security research and verified bug bounty submissions.
 - Includes reports demonstrating expertise in securing applications, APIs, and business logic workflows.
 
-
+[![View](https://img.shields.io/badge/View_Audit_Report-0078D4?style=flat&logo=readthedocs&logoColor=white)](https://github.com/M1S0-0/Web2/)
 
 
 
