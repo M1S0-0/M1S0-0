@@ -43,6 +43,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 #### 📌 Website  
 - Comprehensive security reviews of Web3 applications and decentralized platforms.
 - Focus on evaluating system design, integrations, and user-facing functionality to ensure reliability and trust.
+  
 [![View Audit Report](https://img.shields.io/badge/View_Audit_Report-0078D4?style=flat&logo=readthedocs&logoColor=white)](https://github.com/M1S0-0/Web3)
 
 
