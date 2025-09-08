@@ -97,7 +97,7 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   </a>&nbsp;&nbsp;
   <a href="https://app.aurory.io/" title="Aurory">
     <img src="https://logos.bugcrowdusercontent.com/logos/5ce2/c653/f20cfea9/6aba22da0a3dad9d3edf68c6a99b2dcb_Aurory_Twitter.jpg" alt="Aurory" height="50" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;<br><br>
   <a href="https://app.aurory.io/" title="Aurory">
     <img src="https://logos.bugcrowdusercontent.com/logos/5ce2/c653/f20cfea9/6aba22da0a3dad9d3edf68c6a99b2dcb_Aurory_Twitter.jpg" alt="Aurory" height="50" />
   </a>&nbsp;&nbsp;
