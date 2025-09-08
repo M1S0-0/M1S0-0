@@ -62,6 +62,9 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   <a href="https://www.dell.com/" title="Dell">
     <img src="https://logos.bugcrowdusercontent.com/logos/c63e/8e43/7338d03a/f1e1e5bbb52c73c333a29b25feba8aae_1024px-Dell_Logo.svg.png" alt="Dell" height="50" />
   </a>&nbsp;&nbsp;
+   <a href="https://meraki.cisco.com/" title="Cisco Meraki">
+    <img src="https://logos.bugcrowdusercontent.com/logos/28f4/22c0/c172b7f6/83c52a802161900a5899365746e1dd14_logo.png" alt="Cisco Meraki" height="50" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.cisco.com/" title="Cisco">
     <img src="https://logos.bugcrowdusercontent.com/logos/8d8f/5377/13d3917b/477d9c47c80f82293eef3a46f0593630_cisco.jpeg" alt="Cisco" height="50" />
   </a>&nbsp;&nbsp;
