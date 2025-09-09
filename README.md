@@ -143,6 +143,9 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   <a href="https://noya.ai/" title="NOYA">
     <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/680b5a0240041c22836c43d3/logo.png?timestamp=1755521341" alt="NOYA" height="50" />
   </a>&nbsp;&nbsp;
+   <a href="https://hackenproof.com/audit-programs/lendle-sc-dualdefense-audit" title="Lendle SC DualDefense Audit">
+    <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/68a86a7840041c016cb9ef18/logo.png" alt="Lendle SC DualDefense Audit" height="50" />
+  </a>&nbsp;&nbsp;
  <a href="https://github.com/M1S0-0/Smart_Contract_Audits">
   <img src="https://img.shields.io/badge/View%20All-→-blue?style=flat-square" />
 </a>
