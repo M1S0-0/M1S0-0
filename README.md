@@ -104,6 +104,9 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
    <a href="https://www.greenfly.com/" title="Greenfly">
     <img src="https://profile-photos.hackerone-user-content.com/variants/1ptsay5b0ewzwnwczftdf9ec1kx1/05446da41f007749e01056d6fab408795961973bda37e2324207b60c717d9f0d" alt="Greenfly" height="50" />
   </a>&nbsp;&nbsp;
+    <a href="https://groww.in/" title="Groww">
+    <img src="https://imgs.search.brave.com/iUharc-CnvLz83P05Ngzj1dki5D78CaxtyFPNInOzFI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUwLzEvZ3Jvd3ct/bG9nby1wbmdfc2Vl/a2xvZ28tNTA3MTE4/LnBuZw" alt="Groww" height="50" />
+  </a>&nbsp;&nbsp;
 <a href="https://github.com/M1S0-0/Web2/">
   <img src="https://img.shields.io/badge/View%20All-→-blue?style=flat-square" />
 </a>
