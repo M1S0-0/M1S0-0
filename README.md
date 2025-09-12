@@ -107,9 +107,6 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <a href="https://groww.in/" title="Groww">
     <img src="https://imgs.search.brave.com/iUharc-CnvLz83P05Ngzj1dki5D78CaxtyFPNInOzFI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUwLzEvZ3Jvd3ct/bG9nby1wbmdfc2Vl/a2xvZ28tNTA3MTE4/LnBuZw" alt="Groww" height="50" />
   </a>&nbsp;&nbsp;
-   <a href="https://www.rtreefinance.com/" title="Rtree Finance">
-    <img src="https://dashboard.hackenproof.com/uploads/company/avatar/6891a6c340041c6a8d942a54/avatar.png" alt="Rtree Finance" height="50" />
-  </a>&nbsp;&nbsp;
 <a href="https://github.com/M1S0-0/Web2/">
   <img src="https://img.shields.io/badge/View%20All-→-blue?style=flat-square" />
 </a>
@@ -131,6 +128,9 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
   </a>&nbsp;&nbsp;
   <a href="https://gmgn.ai/" title="GMGN AI">
     <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/67d2eb1e40041c000aa5014a/logo.png" alt="GMGN AI" height="50" />
+  </a>&nbsp;&nbsp;
+    <a href="https://www.rtreefinance.com/" title="Rtree Finance">
+    <img src="https://dashboard.hackenproof.com/uploads/company/avatar/6891a6c340041c6a8d942a54/avatar.png" alt="Rtree Finance" height="50" />
   </a>&nbsp;&nbsp;
     <a href="https://github.com/M1S0-0/Web3">
   <img src="https://img.shields.io/badge/View%20All-→-blue?style=flat-square" />
