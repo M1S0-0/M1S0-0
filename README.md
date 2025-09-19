@@ -28,7 +28,12 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
 ## 📂 Portfolio Sections  
 <p>
 <a href="https://bugcrowd.com/h/M1S0"><img src="https://img.shields.io/badge/Bugcrowd-Profile-FF5500?style=flat-square&logo=bugcrowd&logoColor=white" /></a>
+  <a href="https://hackenproof.com/hackers/M1S0">
+    <img src="https://img.shields.io/badge/HackenProof-Profile-0f172a?style=flat-square&logo=hackenproof&logoColor=white" />
+  </a>
 </p>
+
+
 
 ### 🌐 Web2 – Bug Bounty Reports
 - Collection of Web2 security research and verified bug bounty submissions.
