@@ -137,8 +137,8 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <a href="https://www.rtreefinance.com/" title="Rtree Finance">
     <img src="https://dashboard.hackenproof.com/uploads/company/avatar/6891a6c340041c6a8d942a54/avatar.png" alt="Rtree Finance" height="50" />
    </a>&nbsp;&nbsp;
-    <a href="https://github.com/M1S0-0/Web3">
-  <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/679d449540041c00017fc166/logo.png"  alt="LeveX Web & Mobile" height="50" />
+    <a href="https://levex.com" title="LeveX Web & Mobile">
+  <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/679d449540041c00017fc166/logo.png"  alt="LeveX Web" height="50" />
 </a>
    </a>&nbsp;&nbsp;
     <a href="https://github.com/M1S0-0/Web3">
