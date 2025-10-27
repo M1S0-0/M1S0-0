@@ -161,6 +161,10 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
    <a href="https://hackenproof.com/audit-programs/lendle-sc-dualdefense-audit" title="Lendle SC DualDefense Audit">
     <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/68a86a7840041c016cb9ef18/logo.png" alt="Lendle SC DualDefense Audit" height="50" />
   </a>&nbsp;&nbsp;
+   <a href="https://dashboard.hackenproof.com/user/programs/momentum-smart-contracts" title="Momentum Smart Contracts">
+    <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/68ccde1f40041c2c8ed02ef7/logo.png" alt="Momentum Smart Contracts" height="50" />
+  </a>&nbsp;&nbsp;
+ 
  <a href="https://github.com/M1S0-0/Smart_Contract_Audits">
   <img src="https://img.shields.io/badge/View%20All-→-blue?style=flat-square" />
 </a>
