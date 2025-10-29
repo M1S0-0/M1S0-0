@@ -140,6 +140,10 @@ I am **M1S0**, a security researcher with a strong foundation in both **Web2 app
     <a href="https://levex.com" title="LeveX Web & Mobile">
   <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/679d449540041c00017fc166/logo.png"  alt="LeveX Web" height="50" />
 </a>
+    </a>&nbsp;&nbsp;
+    <a href="https://opensea.io/" title="OpenSea">
+  <img src="https://logos.bugcrowdusercontent.com/logos/c38b/210f/57cf8a68/92facdeae919825d54182cef909553a6_Ship.jpg"  alt="OpenSea" height="50" />
+</a>
    </a>&nbsp;&nbsp;
     <a href="https://github.com/M1S0-0/Web3">
   <img src="https://img.shields.io/badge/View%20All-→-blue?style=flat-square" />
