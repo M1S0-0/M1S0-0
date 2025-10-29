@@ -2,7 +2,7 @@
 # 🛡️ M1S0 | Security Researcher 👾  
 
 ## 👤 About Me  
-I’m **M1S0**, a security researcher specializing in **Web2** and **Web3** security. I’ve uncovered critical vulnerabilities across **web apps**, **APIs**, and **smart contracts**. My focus is delivering real exploit proofs and risk validation with an adversarial yet disciplined approach — finding weaknesses before they’re exploited and strengthening ecosystems.
+I’m **M1S0**, a security researcher specializing in **Web2** and **Web3** security. I’ve uncovered critical vulnerabilities across **web apps**, **APIs**, and **smart contracts**. My focus is delivering real exploit proofs and risk validation with an adversarial yet disciplined approach  finding weaknesses before they’re exploited and strengthening ecosystems.
 
 ![Web2 & Web3 Security](https://img.shields.io/badge/Focus-Web2%20%26%20Web3-blueviolet?style=flat-square)
 ![Smart Contract Audits](https://img.shields.io/badge/Smart%20Contract-Audits-orange?style=flat-square)
